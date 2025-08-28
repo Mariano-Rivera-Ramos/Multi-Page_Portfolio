@@ -1,0 +1,48 @@
+
+---
+title: "Resume"
+---
+
+### Profile
+- **Name:** Mariano Rivera-Ramos  
+- **Background:** Economist specialized in information analysis  
+- **Email:** <mariano.rivera.ramos@gmail.com>  
+- **Phone:** +52 473 111 2181  
+- **Languages:** Spanish (Native), English (Advance), Portuguese (Beginner)
+
+### Education
+- **Master's in Business Administration** — UCW, Vancouver, Canada (2024-Present)
+- **Master’s in Computational Statistics** — CIMAT, Monterrey, Mexico (2019–2021)  
+  - Real-Time Facial Recognition System  
+  - Neural network–based portfolio simulator
+- **Bachelor’s in Economics** — University of Guanajuato, Mexico (2013–2018)  
+  - Exchange: University Fernando Pessoa, Porto, Portugal (2017)  
+  - 5th OECD World Forum on Statistics; National Congress of Economics Students
+
+### Professional Experience
+- **Jr. Statistician — NielsenIQ** (Oct 2022 – Mar 2024)  
+  - Statistical and ML models on country-wide sales and products datasets.  
+  - Classification, regression, and clustering for market patterns and trends.
+- **Secretary General — Asociación Libre Skateboarding de Guanajuato, A.C.** (Feb 2022 – Present)  
+  - Event organization, coordination, and institutional communications.
+- **Board Member — Zona Dorada** (Jan 2022 – Present)  
+  - Oversight of audit/compliance processes; internal controls.
+- **University Lecturer — University of Guanajuato** (Jan 2022 – Dec 2022)  
+  - Political Economy; Advanced Statistics; Game Theory.
+- **Credit & Modeling Analyst — Kikoya** (Feb 2022 – Jul 2022)  
+  - Payment-probability models with ML techniques.
+- **Alumni Survey Analyst — Tecnológico de Monterrey** (Jan 2021 – Jun 2021)  
+  - **NLP** methodology for preliminary analysis of open-ended comments.
+
+### Skills
+**Tools:** 
+- Python
+- R
+- C
+- SQL
+- Power BI  
+**Competencies:** Data analysis, visualization, deep learning, clustering, strategic thinking, written & verbal communication, creativity, prioritization, and problem solving.
+
+::: callout-note
+**Download full CV:** [CV.pdf](downloads/CV.pdf)
+:::

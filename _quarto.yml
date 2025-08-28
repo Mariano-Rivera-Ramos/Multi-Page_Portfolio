@@ -1,0 +1,54 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mariano Rivera-Ramos | MBA Portfolio"
+  description: "MBA Portfolio — Data, Projects, and Leadership"
+  favicon: images/headshot.png
+  navbar:
+    logo: images/headshot.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Leadership"
+        href: leadership.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "Reflection"
+        href: reflection.qmd
+      - text: "Appendix"
+        href: appendix.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-USERNAME
+        aria-label: "LinkedIn"
+      - icon: github
+        href: https://github.com/YOUR-USERNAME
+        aria-label: "GitHub"
+  page-footer:
+    left: "© 2025 Mariano Rivera-Ramos"
+    right: "Built with Quarto"
+  search: true
+
+format:
+  html:
+    theme: darkly
+    css: styles.scss
+    toc: true
+    smooth-scroll: true
+    code-copy: true
+    link-external-icon: true
+    fig-cap-location: bottom
+    lang: en
+execute:
+  echo: false
+  warning: false
+  error: false

@@ -1,0 +1,32 @@
+
+---
+title: "Appendix — LLM Drafts & Annotations"
+---
+
+## Site Map (LLM draft)
+- Home / About
+- Resume
+- Projects & Case Studies
+- Skills & Certifications
+- Leadership & Service
+- Contact
+- Reflection
+- Appendix (this document)
+
+## Section Drafts (LLM)
+**Home (draft):** Economist and MBA candidate; value proposition, key highlights, CTA to download CV.  
+**Resume (draft):** Education, experience, technical and soft skills.  
+**Projects (draft):** Three cases (NielsenIQ, ALS, Kikoya) with challenge–action–result.  
+**Skills (draft):** Technologies, languages, and certifications.  
+**Leadership (draft):** NGO roles and university teaching.  
+**Contact (draft):** Email and LinkedIn/GitHub links.  
+**Reflection (draft):** Lessons learned using LLMs.
+
+## Revision Annotations
+- **Personalization:** Replaced hypothetical metrics with verifiable resume details.
+- **Accessibility:** Added `image-alt`, ARIA labels, contrast, and heading hierarchy.
+- **Privacy & Evidence:** Noted that deliverables are available on request due to confidentiality.
+- **Temporal consistency:** Verified dates and roles; kept precise, sober wording.
+- **Navigation:** Clarified menus and **calls to action** for recruiters and peers.
+
+> These materials satisfy the requirement to keep the LLM site map and drafts with annotations.

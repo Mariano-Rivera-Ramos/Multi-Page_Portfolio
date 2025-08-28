@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Python, R, C, SQL, Power BI\nMachine Learning: classification, regression, clustering, deep learning\nNLP, computer vision, time series"
+  },
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Python, R, C, SQL, Power BI\nMachine Learning: classification, regression, clustering, deep learning\nNLP, computer vision, time series"
+  },
+  {
+    "objectID": "skills.html#soft-skills",
+    "href": "skills.html#soft-skills",
+    "title": "Skills & Certifications",
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\nEffective communication, strategic thinking, social-impact leadership"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Skills & Certifications",
+    "section": "Languages",
+    "text": "Languages\n\nSpanish (native), English, Portuguese\n\n\n\n\n\n\n\nTip\n\n\n\nDownloads\n- CV.pdf\n- Download Marketing report (.docx)\n\nPortfolios & notebooks: available on request\n\n\n\n\nPython\n\n\nR\n\n\nSQL\n\n\nPower BI"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on Using LLM’s",
+    "section": "",
+    "text": "How LLMs turned a vague brief into a workable site\nThe biggest win in this assignment was using LLMs to move from “I kinf of know what I want to a working, publishable portfolio—fast. I started with my CV, a few constraints (Quarto, multi-page, UCW context), and the rubric. The model gave me a clean site map (Home, Resume, Projects, Skills, Leadership, Contact, Reflection, Appendix) and a working _quarto.yml with a navbar on the first pass. That initial scaffold meant I could spend my energy on the content. In short: LLM for structure and acceleration, me for judgment and verification.\nThe LLM’s ability to adapt to my criteria and the course rubric was a bomb of efficiency. The proposed site map already covered nearly all required elements and even shipped with a working Quarto YAML, so I could move straight from outline to implementation. From there, I used short prompts to turn the scaffold into pages, added acceptance criteria per section, and iterated in quick micro-sprints.\nRapid design\nI used the LLM to produce page skeletons with headings, and callouts. It also created a CSS snipet for a dark style and the large centered photo on the About me page. The important part is no just that it delivered a coherent starting point in seconds, but that it was able to create a functioning template where to put all the needed information. From there, polishing was straightforward: adjust tone, swap the placeholder image with my photo, and wire the Download CV and Open in Colab buttons.\nI asked the LLM for micro-plans and acceptance criteria per track: “What does ‘Resume’ look like when done?” “What’s the checklist for ‘Projects’ with two Colab notebooks and two .docx downloads” The result was a set of short sprints I could finish and test the same day. Example: Projects page, pass 1 (add three cases), pass 2 (Colab buttons + summaries), pass 3 (marketing/operations .docx with download). This kept momentum and reduced the chance of cosmetic tweaks delaying work."
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Asociación Libre Skateboarding de Guanajuato, A.C.\n\nSecretary General; event organization; coordination with authorities and community.\nFocus on well-being, education, and job opportunities through quarterly fairs and the creation of skatebowarding schools for kids in risk situations, and offer them services like physiotherapy and drug counseling by psychologist.\n\n\n\nUniversity Teaching\n\nPolitical Economy; Advanced Statistics for Public Policy; Game Theory.\n\n\n\nParticipation & Workshops\n\nINEGI (geoprocessing and datasets); ASEG experience in program evaluation."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "S- Email: mariano.rivera.ramos@gmail.com\n- LinkedIn: Update your URL\n- GitHub: Update your URL\nPrefer email?\nEmail me"
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "",
+    "text": "Home / About\nResume\nProjects & Case Studies\nSkills & Certifications\nLeadership & Service\nContact\nReflection\nAppendix (this document)"
+  },
+  {
+    "objectID": "appendix.html#site-map-llm-draft",
+    "href": "appendix.html#site-map-llm-draft",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "",
+    "text": "Home / About\nResume\nProjects & Case Studies\nSkills & Certifications\nLeadership & Service\nContact\nReflection\nAppendix (this document)"
+  },
+  {
+    "objectID": "appendix.html#section-drafts-llm",
+    "href": "appendix.html#section-drafts-llm",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "Section Drafts (LLM)",
+    "text": "Section Drafts (LLM)\nHome (draft): Economist and MBA candidate; value proposition, key highlights, CTA to download CV.\nResume (draft): Education, experience, technical and soft skills.\nProjects (draft): Three cases (NielsenIQ, ALS, Kikoya) with challenge–action–result.\nSkills (draft): Technologies, languages, and certifications.\nLeadership (draft): NGO roles and university teaching.\nContact (draft): Email and LinkedIn/GitHub links.\nReflection (draft): Lessons learned using LLMs."
+  },
+  {
+    "objectID": "appendix.html#revision-annotations",
+    "href": "appendix.html#revision-annotations",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "Revision Annotations",
+    "text": "Revision Annotations\n\nPersonalization: Replaced hypothetical metrics with verifiable resume details.\nAccessibility: Added image-alt, ARIA labels, contrast, and heading hierarchy.\nPrivacy & Evidence: Noted that deliverables are available on request due to confidentiality.\nTemporal consistency: Verified dates and roles; kept precise, sober wording.\nNavigation: Clarified menus and calls to action for recruiters and peers.\n\n\nThese materials satisfy the requirement to keep the LLM site map and drafts with annotations."
+  },
+  {
+    "objectID": "index.html#value-proposition",
+    "href": "index.html#value-proposition",
+    "title": "About Me",
+    "section": "Value Proposition",
+    "text": "Value Proposition\n\nTurn complex data into actionable decisions.\nMultinational work: Mexico, Brazil, Puerto Rico, and the Dominican Republic.\nSocial-impact leadership: Secretary General at Asociación Libre Skateboarding de Guanajuato, A.C."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "About Me",
+    "section": "Highlights",
+    "text": "Highlights\n\nBuilt a real-time facial recognition system.\nDeveloped credit-risk models and NLP pipelines for alumni comment analysis.\nUniversity teaching: Political Economy, Advanced Statistics, Game Theory.\n\n\n\n\n\n\n\nTip\n\n\n\nDownload my CV (PDF): CV.pdf"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Role: Jr. Statistician (2022–2024)\nChallenge: Integrate multi-country data and detect consumption patterns.\nAction: Designed ML pipelines (classification, regression, clustering) with cross-validation.\nResult: Actionable reports for segmentation and commercial insights.\n\nEvidence available upon request due to confidentiality."
+  },
+  {
+    "objectID": "projects.html#marketing-plan-for-gleara",
+    "href": "projects.html#marketing-plan-for-gleara",
+    "title": "Projects & Case Studies",
+    "section": "Marketing Plan for Gleara",
+    "text": "Marketing Plan for Gleara\nType: Gleara’s Marketing Plan propusal. Challenge Create Marketing Plan for Gleara to enter Canidian Market. Action Market Analysis, unique selling proposition, pricing strategy, consumer segmentation, promotional campaing blueprint, and merketing strategy. Result Creation of Marketing Plan for Gleara brand.\n\n\n\n\n\n\nNote\n\n\n\nDownload full report: Download report (.docx)"
+  },
+  {
+    "objectID": "projects.html#google-colab-mental-health-classifier",
+    "href": "projects.html#google-colab-mental-health-classifier",
+    "title": "Projects & Case Studies",
+    "section": "Google Colab — Mental Health Classifier",
+    "text": "Google Colab — Mental Health Classifier\nType: Interactive data science notebook\nProject Creation of Machine Learning models to correctly clasify if a patient has a Chronic Mental Condition, from the different types of variables: - Demographic - Age - Marital Status - Number of Children\n\nSocioeconomic\n\nEducation Level\nEmployment Status\nIncome\n\nEstilo de vida / Conductuales (lifestyle)\n\nSmoking Status\nPhysical Activity Level\nAlcohol Consumption\nDietary Habits\nSleep Patterns\n\nClinical\n\nHistory of Mental Illness\nHistory of Substance Abuse\n\nFamily History\n\nFamily History of Depression\n\n\nLink: Open in Google Colab"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Profile\n\nName: Mariano Rivera-Ramos\n\nBackground: Economist specialized in information analysis\n\nEmail: mariano.rivera.ramos@gmail.com\n\nPhone: +52 473 111 2181\n\nLanguages: Spanish (Native), English (Advance), Portuguese (Beginner)\n\n\n\nEducation\n\nMaster’s in Business Administration — UCW, Vancouver, Canada (2024-Present)\nMaster’s in Computational Statistics — CIMAT, Monterrey, Mexico (2019–2021)\n\nReal-Time Facial Recognition System\n\nNeural network–based portfolio simulator\n\nBachelor’s in Economics — University of Guanajuato, Mexico (2013–2018)\n\nExchange: University Fernando Pessoa, Porto, Portugal (2017)\n\n5th OECD World Forum on Statistics; National Congress of Economics Students\n\n\n\n\nProfessional Experience\n\nJr. Statistician — NielsenIQ (Oct 2022 – Mar 2024)\n\nStatistical and ML models on country-wide sales and products datasets.\n\nClassification, regression, and clustering for market patterns and trends.\n\nSecretary General — Asociación Libre Skateboarding de Guanajuato, A.C. (Feb 2022 – Present)\n\nEvent organization, coordination, and institutional communications.\n\nBoard Member — Zona Dorada (Jan 2022 – Present)\n\nOversight of audit/compliance processes; internal controls.\n\nUniversity Lecturer — University of Guanajuato (Jan 2022 – Dec 2022)\n\nPolitical Economy; Advanced Statistics; Game Theory.\n\nCredit & Modeling Analyst — Kikoya (Feb 2022 – Jul 2022)\n\nPayment-probability models with ML techniques.\n\nAlumni Survey Analyst — Tecnológico de Monterrey (Jan 2021 – Jun 2021)\n\nNLP methodology for preliminary analysis of open-ended comments.\n\n\n\n\nSkills\nTools: - Python - R - C - SQL - Power BI\nCompetencies: Data analysis, visualization, deep learning, clustering, strategic thinking, written & verbal communication, creativity, prioritization, and problem solving.\n\n\n\n\n\n\nNote\n\n\n\nDownload full CV: CV.pdf"
+  }
+]

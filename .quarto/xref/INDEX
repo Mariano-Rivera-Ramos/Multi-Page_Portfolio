@@ -1,0 +1,26 @@
+{
+  "appendix.qmd": {
+    "appendix.html": "42682bfc"
+  },
+  "contact.qmd": {
+    "contact.html": "644d4d51"
+  },
+  "index.qmd": {
+    "index.html": "40ec2456"
+  },
+  "leadership.qmd": {
+    "leadership.html": "5a76a3d8"
+  },
+  "projects.qmd": {
+    "projects.html": "470ab0f4"
+  },
+  "reflection.qmd": {
+    "reflection.html": "52de160f"
+  },
+  "resume.qmd": {
+    "resume.html": "bc7e583e"
+  },
+  "skills.qmd": {
+    "skills.html": "f28b3cb9"
+  }
+}

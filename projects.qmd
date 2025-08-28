@@ -1,0 +1,59 @@
+
+---
+title: "Projects & Case Studies"
+---
+
+### Market Modeling at NielsenIQ
+**Role:** Jr. Statistician (2022–2024)  
+**Challenge:** Integrate multi-country data and detect consumption patterns.  
+**Action:** Designed ML pipelines (classification, regression, clustering) with cross-validation.  
+**Result:** Actionable reports for segmentation and commercial insights.
+
+> **Evidence** available upon request due to confidentiality.
+
+### Credit Risk at Kikoya
+**Role:** Credit & Modeling Analyst (2022)  
+**Challenge:** Estimate probability of payment.  
+**Action:** Supervised models, feature engineering, ROC-AUC evaluation.  
+**Result:** Proposed a scorecard for risk decisions.
+
+> **Evidence** not available upon request due to confidentiality.
+
+## Marketing Plan for Gleara
+**Type:** Gleara's Marketing Plan propusal.
+**Challenge** Create Marketing Plan for Gleara to enter Canidian Market.
+**Action** Market Analysis, unique selling proposition, pricing strategy, consumer segmentation, promotional campaing blueprint, and merketing strategy.
+**Result** Creation of Marketing Plan for Gleara brand.
+
+::: callout-note
+**Download full report:** [Download report (.docx)](Group 2 Final Project Marketing Plan submission.docx)
+:::
+
+## Google Colab — Mental Health Classifier
+**Type:** Interactive data science notebook  
+**Project** Creation of Machine Learning models to correctly clasify if a patient has a Chronic Mental Condition, from the different types of variables:
+- **Demographic**
+  - Age
+  - Marital Status
+  - Number of Children
+
+- **Socioeconomic**
+  - Education Level
+  - Employment Status
+  - Income
+
+- **Estilo de vida / Conductuales (lifestyle)**
+  - Smoking Status
+  - Physical Activity Level
+  - Alcohol Consumption
+  - Dietary Habits
+  - Sleep Patterns
+
+- **Clinical**
+  - History of Mental Illness
+  - History of Substance Abuse
+
+- **Family History**
+  - Family History of Depression
+
+**Link:** [Open in Google Colab](https://colab.research.google.com/drive/1c2CKbu918Os7r1U1GFynlJLd_CdlO56t){.btn .btn-primary target="_blank" aria-label="Open second Google Colab"}

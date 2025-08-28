@@ -1,0 +1,26 @@
+
+---
+title: "About Me"
+image: images/headshot.png
+image-alt: "Mariano’s profile photo (replace)"
+---
+
+<div class="about-hero">
+  <img src="images/headshot.png" alt="Mariano Rivera headshot" class="hero-photo"/>
+</div>
+
+> Economist specialized in **information analysis** and **MBA student (UCW, Vancouver)**. Experience in business-focused data science, from NielsenIQ (statistical models) to the nonprofit sector (ALS Skateboarding).
+
+## Value Proposition
+- Turn **complex data** into **actionable decisions**.
+- Multinational work: Mexico, Brazil, Puerto Rico, and the Dominican Republic.
+- Social-impact leadership: Secretary General at **Asociación Libre Skateboarding de Guanajuato, A.C.**
+
+## Highlights
+- Built a **real-time facial recognition** system.
+- Developed **credit-risk** models and **NLP** pipelines for alumni comment analysis.
+- University teaching: **Political Economy, Advanced Statistics, Game Theory**.
+
+::: callout-tip
+**Download my CV (PDF):** [CV.pdf](downloads/CV.pdf){aria-label="Download CV as PDF"}
+:::

@@ -1,0 +1,28 @@
+
+---
+title: "Skills & Certifications"
+---
+
+## Technical Skills
+- **Python, R, C, SQL, Power BI**
+- Machine Learning: classification, regression, clustering, deep learning
+- NLP, computer vision, time series
+
+## Soft Skills
+- Effective communication, strategic thinking, social-impact leadership
+
+## Languages
+- Spanish (native), English, Portuguese
+
+::: callout-tip
+**Downloads**  
+- [CV.pdf](downloads/CV.pdf)  
+- [Download Marketing report (.docx)](Group 2 Final Project Marketing Plan submission.docx) 
+
+- Portfolios & notebooks: available on request
+:::
+
+<p><strong>Python</strong><br><progress value="90" max="100"></progress></p>
+<p><strong>R</strong><br><progress value="80" max="100"></progress></p>
+<p><strong>SQL</strong><br><progress value="75" max="100"></progress></p>
+<p><strong>Power BI</strong><br><progress value="85" max="100"></progress></p>

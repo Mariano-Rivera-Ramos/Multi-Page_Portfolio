@@ -1,0 +1,10 @@
+
+---
+title: "Contact"
+---
+S- **Email:** <mariano.rivera.ramos@gmail.com>  
+- **LinkedIn:** [Update your URL](https://www.linkedin.com/in/mariano-rivera-ramos-2a0ab1217/){aria-label="LinkedIn profile"}  
+- **GitHub:** [Update your URL](https://github.com/Mariano-Rivera-Ramos/Web-Portfolio.html.git){aria-label="GitHub profile"}
+
+Prefer email?  
+[Email me](mailto:mariano.rivera.ramos@gmail.com?subject=Contact%20from%20your%20MBA%20portfolio){.btn .btn-primary aria-label="Send email"}

@@ -1,0 +1,17 @@
+
+---
+title: "Reflection on Using LLM's"
+---
+
+**How LLMs turned a vague brief into a workable site**
+
+The biggest win in this assignment was using LLMs to move from “I kinf of know what I want to a **working, publishable portfolio**—fast. I started with my CV, a few constraints (Quarto, multi-page, UCW context), and the rubric. The model gave me a **clean site map** (Home, Resume, Projects, Skills, Leadership, Contact, Reflection, Appendix) and a working `_quarto.yml` with a navbar on the first pass. That initial scaffold meant I could spend my energy on the content. In short: LLM for **structure and acceleration**, me for **judgment and verification**.
+
+The LLM’s ability to adapt to my criteria and the course rubric was a **bomb of efficiency**. The proposed site map already covered nearly all required elements and even shipped with a working **Quarto YAML**, so I could move straight from outline to implementation. From there, I used **short prompts** to turn the scaffold into pages, added acceptance criteria per section, and iterated in quick micro-sprints.
+
+**Rapid design**
+
+I used the LLM to produce page skeletons with headings, and callouts. It also created a CSS snipet for a dark style and the **large centered photo** on the About me page. The important part is no just that it delivered a **coherent starting point** in seconds, but that it was able to create a functioning template where to put all the needed information. From there, polishing was straightforward: adjust tone, swap the placeholder image with my photo, and wire the **Download CV** and **Open in Colab** buttons.
+
+I asked the LLM for **micro-plans** and acceptance criteria per track: “What does ‘Resume’ look like when done?” “What’s the checklist for ‘Projects’ with two Colab notebooks and two .docx downloads” The result was a set of **short sprints** I could finish and test the same day. Example: *Projects page, pass 1* (add three cases), *pass 2* (Colab buttons + summaries), *pass 3* (marketing/operations .docx with download). This kept momentum and reduced the chance of cosmetic tweaks delaying work.
+
