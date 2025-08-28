@@ -15,3 +15,4 @@ I used the LLM to produce page skeletons with headings, and callouts. It also cr
 
 I asked the LLM for **micro-plans** and acceptance criteria per track: “What does ‘Resume’ look like when done?” “What’s the checklist for ‘Projects’ with two Colab notebooks and two .docx downloads” The result was a set of **short sprints** I could finish and test the same day. Example: *Projects page, pass 1* (add three cases), *pass 2* (Colab buttons + summaries), *pass 3* (marketing/operations .docx with download). This kept momentum and reduced the chance of cosmetic tweaks delaying work.
 
+
